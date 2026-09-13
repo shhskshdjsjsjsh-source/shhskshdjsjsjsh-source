@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Batata Chipos</h1>
+  <h1>Nexustester</h1>
   <p><strong>Scripting Specialist & Systems Security Analyst</strong></p>
   <p>Specializing in runtime environments, automated tooling, bytecode analysis, and AST-level deobfuscation.</p>
 
