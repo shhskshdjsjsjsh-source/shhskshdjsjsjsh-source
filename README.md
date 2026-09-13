@@ -68,6 +68,6 @@ I lead and maintain **NovaDumper**, a dedicated research community centered arou
 
 [![Discord](https://img.shields.io/badge/Discord-Direct_Message-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
-**Username:** `_razzle_`
+**Username:** `nexus_deev`
 
 </div>
