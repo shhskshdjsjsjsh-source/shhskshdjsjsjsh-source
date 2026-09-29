@@ -5,7 +5,7 @@
   <p>Specializing in runtime environments, automated tooling, bytecode analysis, and AST-level deobfuscation.</p>
 
   <p>
-    <a href="https://dsc.gg/nonedumper" target="_blank">
+    <a href="https://dsc.gg/nonedump" target="_blank">
       <img src="https://img.shields.io/badge/Discord_Community-NovaDumper-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="NovaDumper Discord" />
     </a>
   </p>
@@ -55,9 +55,9 @@ Through continuous research into virtual machines and intermediate representatio
 
 ### 🌐 Community & Research Project
 
-I lead and maintain **NovaDumper**, a dedicated research community centered around script analysis, custom tooling, and deobfuscation engineering:
+I lead and maintain **NoneDumper**, a dedicated research community centered around script analysis, custom tooling, and deobfuscation engineering:
 
-* **Official Discord:** [dsc.gg/novadumper](https://dsc.gg/novadumper)
+* **Official Discord:** [dsc.gg/nonedump](https://dsc.gg/nonedump)
 * **Topics:** Advanced script structures, runtime protection analysis, reverse-engineering methodology, and custom unpacking utilities.
 
 ---
