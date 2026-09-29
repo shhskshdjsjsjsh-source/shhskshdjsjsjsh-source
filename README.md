@@ -5,7 +5,7 @@
   <p>Specializing in runtime environments, automated tooling, bytecode analysis, and AST-level deobfuscation.</p>
 
   <p>
-    <a href="https://dsc.gg/novadumper" target="_blank">
+    <a href="https://dsc.gg/nonedumper" target="_blank">
       <img src="https://img.shields.io/badge/Discord_Community-NovaDumper-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="NovaDumper Discord" />
     </a>
   </p>
